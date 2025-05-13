@@ -1,0 +1,2 @@
+Linha 01 do arquivo c.txt
+Linha 02
